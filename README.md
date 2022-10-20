@@ -1,4 +1,4 @@
-## Olá! Eu sou Eli Pedro
+## Olá! Eu sou o Eli Pedro
 
 <div>
 <a href="https://github.com/elipcs">
@@ -13,4 +13,9 @@
 </div>
 
   ##
-[![@elipcs's Holopin board](https://holopin.me/elipcs)](https://holopin.io/@elipcs)
+
+<div> 
+ 
+  ![Snake animation](https://github.com/elipcs/elipcs/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
