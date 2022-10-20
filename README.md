@@ -6,4 +6,8 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elipcs&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
 </div>
 
+<div style="display: inline_block"><br>
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+</div>
+
 [![@elipcs's Holopin board](https://holopin.me/elipcs)](https://holopin.io/@elipcs)
