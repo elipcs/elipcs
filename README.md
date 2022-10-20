@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eli Pedro
+## Hi! I'm Eli Pedro <img align="center" src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171"/>
 
 <div>
 <a href="https://github.com/elipcs">
@@ -13,9 +13,4 @@
 </div>
 
   ##
-
-<div> 
- 
   ![Snake animation](https://github.com/elipcs/elipcs/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
