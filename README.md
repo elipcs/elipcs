@@ -1,4 +1,4 @@
-<h1 align ="left"> Hi! I'm Eli <img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" align="center" width="50px"> </h1> 
+# Hi! I'm Eli <img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" align="center" width="50px"> 
 
 <div style="display: inline_block"><br>
 <img align ="left" width="15%" alt-"Eli-Gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
