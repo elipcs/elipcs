@@ -1,4 +1,4 @@
-## Hi! I'm Eli <img align="center" src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171"/>
+## Hi! I'm Eli 👨🏾‍💻
 
 <div style="display: inline_block"><br>
 <img align ="left" width="15%" alt-"Eli-Gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
