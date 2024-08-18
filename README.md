@@ -5,8 +5,6 @@
 </div>
 
 - 📚 I'm a dedicated computer science student at UFCG.
-- ☁️ I’m currently learning about virtualization and Kubernetes.
-- 🌟 Monitor for "Data Structures and Algorithms" Course
 
 <br><br>
 ![elipcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=elipcs&show_icons=true&theme=transparent)
