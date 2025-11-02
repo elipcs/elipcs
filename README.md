@@ -35,10 +35,10 @@ A fullstack album review platform built with **Flask**, **TypeScript**, and **Mo
 Focused on collaborative reviews, clean architecture, and modular APIs.  
 *Theme: Music 🎵*
 
-#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipedro/atal-judge)
+#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipedro/ATALJudge-frontend)
 An online programming judge for education.  
-Frontend: **Next.js + TypeScript + Tailwind + shadcn/ui**  
-Backend: **Node.js + TypeScript + Express + PostgreSQL + TypeORM**  
+[Frontend](https://github.com/elipedro/ATALJudge-frontend): **Next.js + TypeScript + Tailwind + shadcn/ui**  
+[Backend](https://github.com/elipedro/ATALJudge-backend): **Node.js + TypeScript + Express + PostgreSQL + TypeORM**  
 Includes code evaluation with **Judge0**, **JWT authentication**, and classroom management.  
 *Theme: Coding 💻*
 </div>
