@@ -30,14 +30,13 @@
 
 <div align="left">
 
-#### <img src="https://img.icons8.com/ios-filled/50/ffffff/musical-notes.png" width="20" /> [GrooveSync](https://github.com/elipedro/groovesync)
+#### <img src="https://img.icons8.com/ios-filled/50/ffffff/musical-notes.png" width="20" /> [GrooveSync](https://github.com/elipcs/groovesync)
 A fullstack album review platform built with **Flask**, **TypeScript**, and **MongoDB**.  
 Focused on collaborative reviews, clean architecture, and modular APIs.  
 *Theme: Music 🎵*
 
-#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipedro/ATALJudge-frontend)
-An online programming judge for education.  
-[Ataludge](https://github.com/elipedro/AtalJudge): **Next.js + TypeScript + Node.js + Express**  
+#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipcs/AtalJudge)
+An online programming judge for education built with  **Next.js + TypeScript + Node.js + Express**.
 Includes code evaluation with **Judge0**, **JWT authentication**, and classroom management.  
 *Theme: Coding 💻*
 </div>
