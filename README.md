@@ -30,15 +30,16 @@
 
 <div align="left">
 
+#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipcs/AtalJudge)
+An online programming judge for education built with  **Next.js + TypeScript + Node.js + Express**.  
+Includes code evaluation with **Judge0**, **JWT authentication**, and classroom management.  
+
+
 #### <img src="https://img.icons8.com/ios-filled/50/ffffff/musical-notes.png" width="20" /> [GrooveSync](https://github.com/elipcs/groovesync)
 A fullstack album review platform built with **Flask**, **TypeScript**, and **MongoDB**.  
 Focused on collaborative reviews, clean architecture, and modular APIs.  
 
-#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipcs/AtalJudge)
-An online programming judge for education built with  **Next.js + TypeScript + Node.js + Express**.
-Includes code evaluation with **Judge0**, **JWT authentication**, and classroom management.  
 </div>
-
 
 ---
 
