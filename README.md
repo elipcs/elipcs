@@ -37,8 +37,7 @@ Focused on collaborative reviews, clean architecture, and modular APIs.
 
 #### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipedro/ATALJudge-frontend)
 An online programming judge for education.  
-[Frontend](https://github.com/elipedro/ATALJudge-frontend): **Next.js + TypeScript + Tailwind + shadcn/ui**  
-[Backend](https://github.com/elipedro/ATALJudge-backend): **Node.js + TypeScript + Express + PostgreSQL + TypeORM**  
+[Ataludge](https://github.com/elipedro/AtalJudge): **Next.js + TypeScript + Node.js + Express**  
 Includes code evaluation with **Judge0**, **JWT authentication**, and classroom management.  
 *Theme: Coding 💻*
 </div>
