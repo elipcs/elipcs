@@ -1,56 +1,58 @@
-<h2 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/laptop-coding.png" width="28" style="vertical-align: text-bottom;" />
-  Hi, I'm Eli!
-</h2>
+<h1 align="center">Hi, I'm Eli Pedro 👋</h1>
 
-- Computer Science student at **UFCG**  
-- Passionate about **web development**  
-- Working with **TypeScript**, **Python (Flask)**, **PostgreSQL**, and **MongoDB**  
-- Always learning, building, and improving  
+<p align="center">
+  <strong>M.Sc. Student in Computer Science at UFCG</strong><br>
+  Software developer and researcher interested in AI-assisted software engineering and computing education.
+</p>
 
----
-
-<h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/code-file.png" width="22" />
-  &nbsp;Tech Stack
-</h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/elipcs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eli.pedro@copin.ufcg.edu.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-<h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="22" style="display: inline-block; position: relative; top: 10px;" />
-  Featured Projects
-</h3>
+## About Me
 
-<div align="left">
+- M.Sc. student in **Computer Science at UFCG**
+- Researching **Large Language Models**, **automated assessment**, and **computing education**
+- Building full-stack applications and tools for programming education
+- Interested in **software engineering**, **educational technology**, and **artificial intelligence**
+- Based in Campina Grande, Brazil
 
-#### <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="20" /> [AtalJudge](https://github.com/elipcs/AtalJudge)
-An online programming judge for education built with  **Next.js + TypeScript + Node.js + Express**.  
-Includes code evaluation with **Judge0**, **JWT authentication**, and classroom management.  
+## Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,flask,postgres,docker,git&perline=6" />
+</p>
 
-#### <img src="https://img.icons8.com/ios-filled/50/ffffff/musical-notes.png" width="20" /> [GrooveSync](https://github.com/elipcs/groovesync)
-A fullstack album review platform built with **Flask**, **TypeScript**, and **MongoDB**.  
-Focused on collaborative reviews, clean architecture, and modular APIs.  
+## Featured Projects
 
-</div>
+### [Grading Is Easy, Feedback Is Hard](https://github.com/elipcs/grading-is-easy-feedback-is-hard)
+
+Research artifact for evaluating LLMs as instructor-support tools in design-oriented object-oriented programming assessment.
+
+- Comparison of LLM-generated grades and feedback against expert assessments
+- Analysis of grade agreement, diagnostic accuracy, and run-to-run stability
+- Reproducible experiments with anonymized Java submissions
+- Built with **Python**, **pandas**, **NumPy**, **SciPy**, **Matplotlib**, and **Plotly**
+
+### [AtalJudge](https://github.com/elipcs/AtalJudge)
+
+An online judge platform designed for programming education.
+
+- Local and automated execution of **Python** and **Java** submissions
+- Management of classes, assignments, questions, submissions, and grades
+- Role-based access for students, teaching assistants, and professors
+- Detailed execution results and submission history
+- Built with **Next.js**, **React**, **TypeScript**, **Express**, and **PostgreSQL**
 
 ---
 
-<h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/link.png" width="22" />
-  &nbsp;Connect
-</h3>
-
-<a href="https://www.linkedin.com/in/elipcs" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:eli.pedro.silva@ccc.ufcg.edu.br">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p align="center">
+  <em>Researching, building, and learning at the intersection of software engineering, AI, and education.</em>
+</p>
